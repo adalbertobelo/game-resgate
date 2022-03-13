@@ -1,2 +1,2 @@
 # game-resgate
- Jogo de resgate, incluíndo aeronaves e automóvel
+ Jogo de resgate, incluindo aeronaves e automóvel
